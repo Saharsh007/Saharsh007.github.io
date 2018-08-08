@@ -1,0 +1,77 @@
+<html>
+<head>
+<style>
+
+p{color:yellow; font-family:Comic Sans MS;  }
+h1{color:white;}
+li{color:yellow;}
+pre{color:yellow;font-size:150%;}
+</style>
+</head>
+
+<title>My Website</title>
+
+<body style="background-color:black;">
+
+<h1 style="text-align:center; font-size:=220%; font-family:rockwell;">ABOUT ME</h1>
+<p style="font-size:200%;">NAME-KUMAR SAHARSH</p>
+<br><br>
+<p style="font-size:200%;">COLLEGE-NITK</p>
+<br><br>
+<p style="font-size:200%;">BRANCH-CSE</p>
+<br><br>
+<p style="font-size:200%;">ROLL-17CO121</p>
+<br><br>
+<img src="m.jpg" width="400" height="500" style="position:absolute; left:500px; top:60px">
+
+<br>
+<p style="font-size:150%; text-align:center">langauges known->proficiency percentage</p>
+<ul style="text-align:center;">
+<pre>
+C->80%
+C++->90%
+python->20%
+<pre>
+</ul>
+<br><br>
+<p style="font-size:150%; text-align:center"> some of my skills</p>
+<ul style="text-align:center;">
+<pre>
+Android Development(basic layouts).
+Web Development(simple websites such as this).
+Competitive Coding
+<pre>
+</ul>
+<br><br>
+<p style="font-size:150%; text-align:center">Active on these coding sites</p>
+<ul style="text-align:center;">
+<pre>
+Hackerrank
+Codechef
+Codeforces
+</pre>
+</ul>
+
+<br><br>
+<address style="color:yellow; font-size:150%;">
+Contact details(if ever required):<br>
+phone no:8861116298
+<br>
+room room no:4th block 46 
+<br>
+<pre style="font-size:30;">Other links:</pre>
+<a href="https://www.facebook.com/saharsh.kumar.94" target="_blank">	<img src="fb.jpg" width="50" height="50" style="position:absolute; left:210px; top:1270px""></a>
+<a href="https://www.linkedin.com/in/kumar-saharsh-767829156/" target="_blank">	<img src="l.png" width="50" height="50" style="position:absolute; left:270px; top:1270px""></a>
+<a href="https://github.com/Saharsh007" target="_blank">	<img src="g.png" width="80" height="50" style="position:absolute; left:330px; top:1270px""></a>
+<a href="https://twitter.com/KumarSaharsh2" target="_blank">	<img src="t.jpg" width="50" height="50" style="position:absolute; left:420px; top:1270px""></a>
+</address>
+
+
+
+</body>
+</html>
+
+
+
+
+ 
