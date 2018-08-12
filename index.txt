@@ -28,13 +28,7 @@ pre{color:yellow;font-size:150%;}
 
 <br>
 <p style="font-size:150%; text-align:center">langauges known->proficiency percentage</p>
-<ul style="text-align:center;">
-<pre>
-C->80%
-C++->90%
-python->20%
-<pre>
-</ul>
+
 <br><br>
 <p style="font-size:150%; text-align:center"> some of my skills</p>
 <ul style="text-align:center;">
