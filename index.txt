@@ -1,5 +1,6 @@
 
 
+
 <html>
 <head>
 <style>
@@ -8,16 +9,20 @@ p{color:yellow; font-family:Comic Sans MS;  }
 h1{color:white;}
 li{color:yellow;}
 pre{color:yellow;font-size:150%;}
+
+a:link{color:yellow; text-decoration: none;}
+a:visited {color:green;}
+a:hover{color:blue;}
+a:active {color:white;}
 </style>
-</head>
 
 <title>My Website</title>
 
 <body style="background-color:black;">
 
 <h1 style="text-align:center; font-size:=220%; font-family:rockwell;">ABOUT ME</h1>
-<p style="font-size:200%;">NAME-KUMAR SAHARSH</p>
-<img src="m.jpg" width="400" height="500" style="position:absolute; ">
+<p style="font-size:200%;">NAME-KUMAR SAHARSH
+<img src="m.jpg" width="400" height="500" style="position:absolute; "></p>
 <br><br>
 <p style="font-size:200%;">COLLEGE-NITK</p>
 <br><br>
@@ -44,9 +49,9 @@ Competitive Coding(knows data structures).
 <ul>
 
 <pre style="text-align:center;">
-<a href="  Hackerrank
-Codechef  
-<a href="http://codeforces.com/profile/saharshsonu40">codeforces></a>
+<a href="https://www.hackerrank.com/saharshsonu40?hr_r=1">Hackerrank</a>
+<a href="https://www.codechef.com/users/kumar_saharsh">codechef</a> 
+<a href="http://codeforces.com/profile/saharshsonu40" >codeforces</a>
 </pre>
 
 </ul>
