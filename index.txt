@@ -1,8 +1,9 @@
-x
 
 
 <html>
 <head>
+<link rel="shortcut icon" href="icon.ico">
+</head>
 <style>
 
 p{color:yellow; font-family:Comic Sans MS;  }
@@ -16,7 +17,7 @@ a:hover{color:blue;}
 a:active {color:white;}
 </style>
 
-<title>My Website</title>
+<title>Saharsh</title>
 
 <body background="bg1.jpg">
 
@@ -33,19 +34,27 @@ a:active {color:white;}
 
 
 <br>
-<p style="font-size:150%; text-align:center">langauges known->proficiency percentage</p>
+<p style="font-size:150%; text-align:center">Langauges Known->Proficiency Percentage</p>
 <p style="color:black;">......................................<img src="graphs.jpg" width="1000" height="500"></p>
 <br><br>
 <p style="font-size:150%; text-align:center"> Some of my skills</p>
+<p style="font-size:130%; text-align:center">Technical</p>
 <ul style="text-align:center;">
 <pre>
-Android Development(basic layouts).
-Web Development(simple websites such as this).
-Competitive Coding(knows data structures).
-Entrepreneurship(working on it).
+Android Development(basic layouts,linking two layouts,array adapters).
+Web Development(websites such as this).
+Competitive Coding(know data structures and maths).
+Entrepreneurship(In Progress).
 <pre>
 </ul>
-<br><br>
+<p style="font-size:130%; text-align:center">Non-Technical</p>
+<ul style="text-align:center;">
+<pre>
+Good Badminton and Football player
+Experinced PC Gamer
+<pre>
+</ul>
+<br>
 <p style="font-size:150%; text-align:center">Active on these coding sites</p>
 <ul>
 
