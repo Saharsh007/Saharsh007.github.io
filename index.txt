@@ -1,4 +1,4 @@
-
+x
 
 
 <html>
@@ -11,23 +11,23 @@ li{color:yellow;}
 pre{color:yellow;font-size:150%;}
 
 a:link{color:yellow; text-decoration: none;}
-a:visited {color:green;}
+a:visited {color:white;}
 a:hover{color:blue;}
 a:active {color:white;}
 </style>
 
 <title>My Website</title>
 
-<body style="background-color:black;">
+<body background="bg1.jpg">
 
 <h1 style="text-align:center; font-size:=220%; font-family:rockwell;">ABOUT ME</h1>
 <p style="font-size:200%;">NAME-KUMAR SAHARSH
-<img src="m.jpg" width="400" height="500" style="position:absolute; "></p>
+<img src="m.jpg" width="400" height="500" style="position:absolute;  border-radius: 50%;" ></p>
 <br><br>
-<p style="font-size:200%;">COLLEGE-NITK</p>
+<p style="font-size:200%;">COLLEGE-<a href="nitk.ac.in" styles="hover-color:white;">NITK</a></p>
 <br><br>
 <p style="font-size:200%;">BRANCH-CSE</p>
-<br><br>
+<br><br> 
 <p style="font-size:200%;">ROLL-17CO121</p>
 <br><br>
 
@@ -36,12 +36,13 @@ a:active {color:white;}
 <p style="font-size:150%; text-align:center">langauges known->proficiency percentage</p>
 <p style="color:black;">......................................<img src="graphs.jpg" width="1000" height="500"></p>
 <br><br>
-<p style="font-size:150%; text-align:center"> some of my skills</p>
+<p style="font-size:150%; text-align:center"> Some of my skills</p>
 <ul style="text-align:center;">
 <pre>
 Android Development(basic layouts).
 Web Development(simple websites such as this).
 Competitive Coding(knows data structures).
+Entrepreneurship(working on it).
 <pre>
 </ul>
 <br><br>
@@ -58,17 +59,20 @@ Competitive Coding(knows data structures).
 
 <br><br>
 <address style="color:yellow; font-size:150%;">
-Contact details(if ever required):<br>
-phone no:8861116298
+Find me here:<br>
+Email: saharshsonu40@gmail.com
 <br>
-room no:4th block 46 
+Whatsapp:8861116298
+<br>
+Room No:4th block 46 
 <br>
 <P style="font-size:30;">Other links:
 <a href="https://www.facebook.com/saharsh.kumar.94" target="_blank">	<img src="fb.jpg" width="50" height="50" ></a>
 <a href="https://www.linkedin.com/in/kumar-saharsh-767829156/" target="_blank">	<img src="l.png" width="50" height="50" ></a>
 <a href="https://github.com/Saharsh007" target="_blank">	<img src="g.png" width="80" height="50" ></a>
 <a href="https://twitter.com/KumarSaharsh2" target="_blank">	<img src="t.jpg" width="50" height="50"></a>
-</P	>
+<a href="https://www.quora.com/profile/Saharsh-Kumar-1" target="_blank"  >	<img src="quora.jpg" width="50" height="50" style="border-radius:50%;"></a>
+</P	> 
 </address>
 </body>
 </html>
