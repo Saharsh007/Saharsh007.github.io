@@ -17,6 +17,7 @@ pre{color:yellow;font-size:150%;}
 
 <h1 style="text-align:center; font-size:=220%; font-family:rockwell;">ABOUT ME</h1>
 <p style="font-size:200%;">NAME-KUMAR SAHARSH</p>
+<img src="m.jpg" width="400" height="500" style="position:absolute; ">
 <br><br>
 <p style="font-size:200%;">COLLEGE-NITK</p>
 <br><br>
@@ -24,11 +25,11 @@ pre{color:yellow;font-size:150%;}
 <br><br>
 <p style="font-size:200%;">ROLL-17CO121</p>
 <br><br>
-<img src="m.jpg" width="400" height="500" style="position:absolute; left:500px; top:60px">
+
 
 <br>
 <p style="font-size:150%; text-align:center">langauges known->proficiency percentage</p>
-
+<p style="color:black;">......................................<img src="graphs.jpg" width="1000" height="500"></p>
 <br><br>
 <p style="font-size:150%; text-align:center"> some of my skills</p>
 <ul style="text-align:center;">
@@ -43,9 +44,10 @@ Competitive Coding(knows data structures).
 <ul>
 
 <pre style="text-align:center;">
-Hackerrank
+<a href="  Hackerrank
 Codechef  
-codeforces</pre>
+<a href="http://codeforces.com/profile/saharshsonu40">codeforces></a>
+</pre>
 
 </ul>
 
