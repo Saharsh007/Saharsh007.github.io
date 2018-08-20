@@ -1,4 +1,5 @@
 
+
 <html>
 <head>
 <link rel="shortcut icon" href="icon.ico">
@@ -22,15 +23,15 @@ a:active {color:white;}
 
 <body background="text_bg.png">
 
-<h1 style="text-align:center; font-size:=220%; font-family:Arizonia;"> <link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'> ABOUT ME</h1>
+<h1 style="text-align:center; font-size:=220%; font-family: Courier New;"> ABOUT ME</h1>
 
 <img src="m.jpg" width="400" height="500" style=" float:right;   border-radius: 50%;" >
-<p  style="font-size:200%; font-family:Cookie; "> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>NAME-KUMAR SAHARSH</p>
-<p style="font-size:200%; font-family:Cookie; "> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>COLLEGE-<a href="nitk.ac.in" styles="hover-color:white;" target="_blank">NITK</a></p>
-<p style="font-size:200%; font-family:Cookie; "> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>BRANCH-CSE</p> 
-<p style="font-size:200%; font-family:Cookie; "> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>ROLL-17CO121</p>
+<p  style="font-size:200%; font-family: Courier New; ">NAME-KUMAR SAHARSH</p>
+<p style="font-size:200%; font-family: Courier New; ">COLLEGE-<a href="nitk.ac.in" styles="hover-color:white;" target="_blank">NITK</a></p>
+<p style="font-size:200%; font-family: Courier New; ">BRANCH-CSE</p> 
+<p style="font-size:200%; font-family: Courier New; ">ROLL-17CO121</p>
 
-<pre style="font-family:Merienda One;"><link href='http://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
+<pre style="font-family: Courier New;">
 I am a curious guy who is interest is exploring new things,
 searching for his ultimate interest(sounds confusing ikr).
 I have knowledge of CP,DSA,Web Dev, Android dev
@@ -48,17 +49,17 @@ only as software not hardware.
 
 
 <br>
-<p style="font-size:150%; text-align:center; font-family:Leckerli One;"> <link href='http://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>Langauges Known->Proficiency Percentage</p>
+<p style="font-size:150%; text-align:center; font-family: Courier New;"> Langauges Known->Proficiency Percentage</p>
 <p style="color:black;"> <img src="graphs.jpg" width="1000" height="500" style="padding-left:100;"></p>
 <br><br>
 
 
-<p style="font-size:150%; text-align:center; color:red; font-family:Oleo Script; "> <link href='http://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> Some of my skills</p>
+<p style="font-size:150%; text-align:center; color:red; font-family: Courier New; ">Some of my skills</p>
 
 
-<p style="font-size:130%; text-align:center; color:white; font-family:Oleo Script;"> <link href='http://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> TECHNICAL</p>
+<p style="font-size:130%; text-align:center; color:white; font-family: Courier New;"> TECHNICAL</p>
 <ul style="text-align:center;">
-<pre style="text-align:center; font-family:Cookie;"> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'> 
+<pre style="text-align:center; font-family: Courier New;">
 Android Development(basic layouts,linking two layouts,array adapters).
 Web Development(websites such as this).
 Competitive Coding(know data structures and maths).
@@ -66,18 +67,18 @@ Entrepreneurship(In Progress).
 </pre>
 </ul>
 
-<p style="font-size:130%; text-align:center; color:white; font-family:Oleo Script; "> <link href='http://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> NON-TECHICAL</p>
+<p style="font-size:130%; text-align:center; color:white; font-family: Courier New; "> NON-TECHICAL</p>
 <ul style="font-family:Cookie; text-align:center;  "> 
-<pre style="font-family:Cookie; "> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'> 
+<pre style="font-family: Courier New; ">
 Good Badminton and Football player
 Experinced PC Gamer
 </pre>
 </ul>
 
 
-<p style="font-size:150%; text-align:center; color:red; font-family:Oleo Script; "> <link href='http://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> Active on these sites</p>
+<p style="font-size:150%; text-align:center; color:red; font-family: Courier New; ">Active on these sites</p>
 <ul>
-<pre style="text-align:center; font-family:Cookie;"> <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'> 
+<pre style="text-align:center; font-family: Courier New;">
 <a href="https://www.hackerrank.com/saharshsonu40?hr_r=1" target="_blank">Hackerrank</a>
 <a href="https://www.codechef.com/users/kumar_saharsh" target="_blank">codechef</a> 
 <a href="http://codeforces.com/profile/saharshsonu40" target="_blank" >codeforces</a>
