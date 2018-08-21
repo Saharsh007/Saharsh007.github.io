@@ -62,7 +62,7 @@ Entrepreneurship(In Progress).
 </pre>
 </ul>
 
-<p style="font-size:130%; text-align:center; color:white; font-family:Oleo Script; "> <link href='https://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> NON-TECHICAL</p>
+<p style="font-size:130%; text-align:center; color:white; font-family:Oleo Script; "> <link href='https://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> NON-TECHNICAL</p>
 <ul style="font-family:Cookie; text-align:center;  "> 
 <pre style="font-family:Cookie; "> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'> 
 Good Badminton and Football player
@@ -88,8 +88,6 @@ Email: saharshsonu40@gmail.com
 Whatsapp:8861116298
 <br>
 Room No:4th block 46 
-<br>
-
 <P style="font-size:30;">Other links:
 <a href="https://www.facebook.com/saharsh.kumar.94" target="_blank">	<img src="fb.jpg" width="50" height="50" ></a>
 <a href="https://www.linkedin.com/in/kumar-saharsh-767829156/" target="_blank">	<img src="l.png" width="50" height="50" ></a>
