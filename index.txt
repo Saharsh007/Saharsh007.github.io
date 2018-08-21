@@ -2,33 +2,28 @@
 <html>
 <head>
 <link rel="shortcut icon" href="icon.ico">
+<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<style>
-p{color:yellow; font-family:Comic Sans MS;  }
-h1
-{
-color:white;
-}
-li{color:yellow;}
-pre{color:yellow;font-size:150%;}
-
-a:link{color:yellow; text-decoration: none;}
-a:visited {color:white;}
-a:hover{color:blue;}
-a:active {color:white;}
-</style>
-
 <title>Saharsh</title>
 
-<body background="text_bg.png">
+<body >
 
-<h1 style="text-align:center; font-size:=220%; font-family:Arizonia;"> <link href='https://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'> ABOUT ME</h1>
+<h1  id="top1" style="text-align:center; font-size:=220%; font-family:Arizonia;"> <link href='https://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'> ABOUT ME</h1>
 
 <img src="m.jpg" width="400" height="500" style=" float:right;   border-radius: 50%;" >
-<p  style="font-size:200%; font-family:Cookie; "> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>NAME-KUMAR SAHARSH</p>
-<p style="font-size:200%; font-family:Cookie; "> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>COLLEGE-<a href="nitk.ac.in" styles="hover-color:white;" target="_blank">NITK</a></p>
-<p style="font-size:200%; font-family:Cookie; "> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>BRANCH-CSE</p> 
-<p style="font-size:200%; font-family:Cookie; "> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>ROLL-17CO121</p>
+
+
+<pre style="font-size:250%; font-family:Cookie; "> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+NAME-KUMAR SAHARSH
+
+COLLEGE-<a href="nitk.ac.in" styles="hover-color:white;" target="_blank">NITK</a>
+
+BRANCH-CSE
+
+ROLL-17CO121
+</pre>
+
+
 
 <pre style="font-family:Merienda One;"><link href='https://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
 I am a curious guy who is interest is exploring new things,
@@ -79,9 +74,9 @@ Experinced PC Gamer
 <p style="font-size:150%; text-align:center; color:red; font-family:Oleo Script; "> <link href='https://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'> Active on these sites</p>
 <ul>
 <pre style="text-align:center; font-family:Cookie;"> <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'> 
-<a href="https://www.hackerrank.com/saharshsonu40?hr_r=1" target="_blank">Hackerrank</a>
-<a href="https://www.codechef.com/users/kumar_saharsh" target="_blank">codechef</a> 
-<a href="https://codeforces.com/profile/saharshsonu40" target="_blank" >codeforces</a>
+<a href="https://www.hackerrank.com/saharshsonu40?hr_r=1" target="_blank" > Hackerrank </a>
+<a href="https://www.codechef.com/users/kumar_saharsh" target="_blank" > codechef </a> 
+<a href="https://codeforces.com/profile/saharshsonu40" target="_blank"  > codeforces </a>
 </pre>
 </ul>
 <br><br>
@@ -101,6 +96,7 @@ Room No:4th block 46
 <a href="https://github.com/Saharsh007" target="_blank">	<img src="g.png" width="80" height="50" ></a>
 <a href="https://twitter.com/KumarSaharsh2" target="_blank">	<img src="t.jpg" width="50" height="50"></a>
 <a href="https://www.quora.com/profile/Saharsh-Kumar-1" target="_blank"  >	<img src="quora.jpg" width="50" height="50" style="border-radius:50%;"></a>
+<a href="#top1"> <img src="top.png" width="100" height="100" style="padding-left:600; border-radius:50%;"> </a>
 </P> 
 </address>
 
