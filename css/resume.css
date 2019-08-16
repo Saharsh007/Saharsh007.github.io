@@ -190,3 +190,14 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+
+mark.light {
+  color:#87cdd6;
+  background: none;
+}
+
+mark.blue {
+  color:#0000A0;
+  background: none;
+}
